@@ -1,0 +1,8 @@
+ai-video-editor/
+├── index.html
+├── index.css
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+├── output.css  ← final generated CSS
+└── node_modules/
